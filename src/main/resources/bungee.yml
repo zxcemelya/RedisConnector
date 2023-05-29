@@ -1,0 +1,3 @@
+name: RedisConnector
+version: '${project.version}'
+main: me.krutikov.redisconnector.Main
